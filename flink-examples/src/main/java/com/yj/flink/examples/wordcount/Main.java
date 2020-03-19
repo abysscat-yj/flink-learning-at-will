@@ -48,7 +48,7 @@ public class Main {
                 })
                 .print();
 
-        env.execute("yj's first wordcount demo");
+        env.execute("yj's first wordcount demo.");
 
     }
 
